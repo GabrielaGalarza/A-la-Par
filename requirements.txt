@@ -1,0 +1,3 @@
+streamlit
+argon2-cffi
+sqlite3
